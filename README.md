@@ -1,4 +1,3 @@
-# Beetle-Passion-Project
-My passion project about a flying, small Hercules beetle.
-Beetles. We all love them, with them ranging in size, shape, and nature. I personally like the Hercules beetle, due to it having a huge horn that it uses to pierce tree bark and fruits to eat them, and the main topic, the wings. Now, I want to do an Ornithopter that
-
+For:  Whoever wants to make an ornithopter similar to this one. By: HerculesBeetleLVR
+Beetles. We all love them, with them ranging in size, shape, and nature. I personally like the Hercules beetle, due to it having a huge horn that it uses to pierce tree bark and fruits to eat them, and the main topic, the wings. Now, I want to do an Ornithopter that is around the size of a hand based on the beetle, but can sustain itself in the air. I also want it to have similar features of the actual beetle and be as accurate as possible. 
+Plans for this include: researching how the beetle flies, how it acts, the balance between the weight and thrust, and when to land, fly, and everything else that is necessary for it to function correctly.
